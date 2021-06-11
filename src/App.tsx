@@ -13,7 +13,7 @@ function App() {
         <Navbar.Brand>Dylan Barva</Navbar.Brand>
         <Nav.Link style={{color: 'white'}} href="#github">Github</Nav.Link>
         <Nav.Link style={{color: 'white'}} >Projects</Nav.Link>
-        <Nav.Link style={{color: 'white'}}>Courses</Nav.Link>
+        <Nav.Link style={{color: 'white'}}>Courses taco </Nav.Link>
       </Navbar>
       /* <Project projectName = "Taco" projectDescription = "Potato" projectTimeline = "Now"></Project> */
   );
